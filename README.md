@@ -1,6 +1,6 @@
 # DNA Replication and Telomere Maintenance
 
-Educational animation illustrating DNA replication and telomere maintenance mechanisms. Originally created earlier as an educational project.
+Educational PowerPoint-based animation illustrating DNA replication and telomere maintenance mechanisms. Originally created in 2007 as a student learning project; the animation is in Russian.
 
 **Note:** DNA synthesis occurs in the 5′→3′ direction. The labeling in this animation is simplified.
 
