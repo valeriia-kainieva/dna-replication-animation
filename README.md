@@ -1,4 +1,4 @@
-# DNA Replication and Telomere Dynamics
+# DNA Replication and Telomere Maintenance
 
 Educational animation illustrating DNA replication and telomere maintenance mechanisms. Originally created earlier as an educational project.
 
